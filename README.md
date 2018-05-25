@@ -1,4 +1,4 @@
-# Juego Profesores 7
+# Juego Profesores 
 
 Juego de profesores implentando js html jquery
 
